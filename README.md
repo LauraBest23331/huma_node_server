@@ -7,3 +7,9 @@ this is the back service of the tiger-code website powered by node.js
 `
   npm install
 `
+
+# Run
+
+`
+  node service.js
+`
