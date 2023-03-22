@@ -1,14 +1,14 @@
 const mysql = require('mysql')
 
-const HUAWEI_HOST = '124.71.20.246'
-const HONGKONG_HOST = '119.8.123.19'
+const HUAWEI_HOST = ''
+const HONGKONG_HOST = ''
 
 
 const config = {
-    host: 'localhost',
-    database: 'huma',
-    user: 'vhgyhe',
-    password: 'Laura58662'
+    host: '',
+    database: '',
+    user: '',
+    password: ''
 }
 
 // [], {}, [{}, id]
